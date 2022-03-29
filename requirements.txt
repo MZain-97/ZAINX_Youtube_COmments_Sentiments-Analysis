@@ -1,0 +1,7 @@
+streamlit
+pandas
+googleapiclient
+joblib
+wordcloud
+seaborn
+matplotlib
