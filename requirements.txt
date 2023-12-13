@@ -6,4 +6,4 @@ wordcloud
 seaborn
 matplotlib
 click==8.0.4
-sklearn
+scikit-learn
